@@ -1,0 +1,15 @@
+pip install -r requirements.txt
+streamlit==1.35.0
+torch==2.3.0
+torchaudio==2.3.0
+librosa==0.10.2
+soundfile==0.12.1
+numpy==1.26.4
+matplotlib==3.9.0
+scikit-learn==1.5.0
+pandas==2.2.2
+fpdf2>=2.7
+resampy
+joblib
+transformers
+huggingface_hub
